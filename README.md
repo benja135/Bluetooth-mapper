@@ -1,3 +1,6 @@
+Il s'agit du projet initial qui a été rendu à la fin de notre TER (travail d'étude et de recherche).
+Depuis une version avec quelques améliorations a été créé : https://github.com/benja135/bluetooth-mapper-v2
+
 # bluetooth-mapper
 Cartographie et résolution de labyrinthe pour robot Lego Mindostorms NXT (équipe du firmware NXJ LejOS)
 
