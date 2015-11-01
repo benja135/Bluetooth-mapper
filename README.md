@@ -12,6 +12,7 @@ Vous pouvez ensuite importer les programmes du dossier courant.
 Les projets principaux sont : 
   - Scanner Runner [NXT]
   - Bluetooth Mapper [PC]
+
 (la Javadoc est disponible dans leur dossier doc)
 
 Le sigle [PC] signifie que le programme fonctionne du coté PC.
