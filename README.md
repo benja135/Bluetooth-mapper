@@ -3,6 +3,7 @@ Cartographie et résolution de labyrinthe pour robot Lego Mindostorms NXT (équi
 
 Pour compiler et lancer les programmes, il faut installer le logiciel
 NXJ leJOS : http://www.lejos.org/nxt/nxj/tutorial/Preliminaries/GettingStarted.htm
+
 Puis installer le plugin Eclipse :
 http://www.lejos.org/nxt/nxj/tutorial/Preliminaries/UsingEclipse.htm
 
@@ -12,7 +13,10 @@ Les projets principaux sont :
   - Scanner Runner [NXT]
   - Bluetooth Mapper [PC]
 (la Javadoc est disponible dans leur dossier doc)
-  
+
+Le sigle [PC] signifie que le programme fonctionne du coté PC.
+Le sigle [NXT] signifie que le programme fonctionne du coté robot.
+
 Vous devez disposez d'un dongle bluetooth sur votre ordinateur.
 
 Note: pour que tout fonctionne, l'adresse du robot dans la classe NxtConnexion
